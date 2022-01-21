@@ -29,14 +29,15 @@ server {
 	index  index.html index.htm index.php;  
     }  
 }   
-说明：  
-server_name 这个字段域名根据自已实际情况填写.  
-root 这里填写网站源码根路径。  
 
-访问链接：  
+инструкция:
+server_name Это поле доменное имя заполняется в соответствии с вашей реальной ситуацией.
+root Укажите здесь корневой путь к исходному коду веб-сайта.  
+
+Ссылка доступа:
 http://www.example.com;  
 
-## 三、效果展示：  
+## 3. Отображение эффекта:
 ![](https://github.com/Forever18/p12certcheck/blob/main/static/pack/checkcert/images/p12.png)  
 ![](https://github.com/Forever18/p12certcheck/blob/main/static/pack/checkcert/images/ipa.png)  
 
